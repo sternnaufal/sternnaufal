@@ -44,26 +44,9 @@ Saya lebih suka kritik jujur daripada pujian kosong. Kalau kamu lihat bug, kasih
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Fakta Singkat
-- 🔭 Saat ini sedang mengerjakan: **Sakurapai** (CMS video), **Clicky Project** (idle clicker web game), dan beberapa tooling untuk portofolio.  
 - 🛠️ Teknologi favorit: **React.js**, **PHP**, **MySQL**, **JavaScript**, **Bootstrap / Tailwind**.  
 - 💡 Gaya kerja: iterasi cepat, modular UI/UX, dan pragmatis — siap kompromi antara ideal dan deliverable.  
-- 📫 Kontak: `naufalrakha@gmail.com` (ganti jika perlu)  
+- 📫 Kontak: `naufalrakha2712@gmail.com`
 - 🌐 Portfolio: `https://naufalrakha.my.id`  
 
 ---
-
-## Skills
-**Bahasa & Framework**
-- JavaScript (ES6+), TypeScript (dasar)  
-- React.js, React-Bootstrap  
-- PHP (plain), Laravel (dasar)  
-
-**Frontend**
-- HTML5, CSS3, Bootstrap, Tailwind  
-- UI/UX modular, responsive design  
-
-**Backend & Database**
-- MySQL, REST API, query optimization (praktis)  
-
-**Tools**
-- Git, VS Code, Composer, npm/yarn, Chrome DevTools  
