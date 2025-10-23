@@ -1,6 +1,8 @@
-# Naufal Rakha Putra 👋
-**Web Programmer | React.js Enthusiast**  
+# Naufal Rakha Putra 
+**Web Programmer | FrontEnd Developer | IT Support**  
+# 💫 About Me:
 University Brawijaya
+SMKN 1 Bukittinggi
 
 ---
 
@@ -8,10 +10,6 @@ University Brawijaya
 Saya membuat aplikasi web yang berguna — bukan sekadar demo. Fokus saya: frontend rapi (React.js), backend sederhana (PHP/MySQL), dan prototipe yang bisa diuji langsung. Saya suka tantangan; tolong jangan puji tanpa alasan — tunjukkan bugnya, bukan catatan bagusnya.
 
 ---
-# 💫 About Me:
-🔭 University Brawijaya<br>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/naufal.stern) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stern_naufal2712) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naufal-rakha-putra-a0130332a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/okebeyos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@naufaltechtainment1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naufalrakha2712@gmail.com) 
 
