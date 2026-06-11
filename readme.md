@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-Mahasiswa **Teknologi Informasi Universitas Brawijaya** dengan **IPK Sempurna (4.00)** dan rekam jejak kuat dalam **Full-Stack Web Development**, **Game Development**, serta **Network & Cyber Security**. Menguasai ekosistem JavaScript modern (React.js, Node.js, Express) dan PHP (Laravel), serta integrasi model AI komersial (Gemini, DeepSeek, Groq API).
+Mahasiswa **Teknologi Informasi Universitas Brawijaya** dan rekam jejak kuat dalam **Full-Stack Web Development**, **Game Development**, serta **Network & Cyber Security**. Menguasai ekosistem JavaScript modern (React.js, Node.js, Express) dan PHP (Laravel), serta integrasi model AI komersial (Gemini, DeepSeek, Groq API).
 
 Berpengalaman mengelola *core system* organisasi kampus, mengaudit infrastruktur server internal, menginisiasi studio game independen, serta menangani puluhan tiket gangguan jaringan harian di PT Telkom Akses. Tipe *generalist* yang berorientasi pada eksekusi produk nyata (*end-to-end product delivery*).
 
@@ -83,7 +83,7 @@ Automasi bot pengingat jadwal terintegrasi API kalender untuk manajemen waktu pe
 
 ## 🎓 Education
 
-- **Universitas Brawijaya** — D3 Teknologi Informasi (IPK 4.00, 2025–Sekarang)
+- **Universitas Brawijaya** — D3 Teknologi Informasi (2025–Sekarang)
 - **SMKN 1 Bukittinggi** — Teknik Komputer dan Jaringan (2022–2025)
 
 ---
